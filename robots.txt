@@ -19,4 +19,4 @@ Disallow: /
 User-agent: Bingbot
 Disallow: /
 
-Sitemap: https://hewany.netlify.app/sitemap.xml
+Sitemap: https://postindo.netlify.app/sitemap.xml
