@@ -3,17 +3,20 @@ title: POSTINDO
 subtitle: Informasi Artikel Terbaik Indonesia
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Postindo
+  text: Postindo merupakan sebuah media online yang menyediakan konten berkualitas
+    tentang semua hal yang berkaitan dengan tulisan-tulisan menarik anak Bangsa.
+    Konten-konten yang ada disini merupakan konten yang berasal dari sumber
+    terpercaya serta telah mengalami berbagai tahap editan sehingga terjaga
+    kualitasnya. Tidak hanya itu, konten yang diberikan merupakan konten fresh
+    dan terkini yang pastinya disesuaikan dengan perkembangan jaman, sehingga
+    cocok bagi kaum milenial yang senang membaca.
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: Mengapa Postindo
+  text: Karena pengemasan artikel yang menarik serta tata bahasa yang mudah
+    dipahami menjadi salah satu poin plus yang bisa ditawarkan untuk para
+    pembaca. Isi konten yang informatif dan terkini membuat pembaca akan selalu
+    penasaran dengan konten-konten terbaru yang ada di sini.
 products: []
 values:
   heading: Buah kopi
