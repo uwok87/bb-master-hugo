@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Hubungi Kami
 logo: img/logo-postindo.png
 contact_entries: []
 ---
