@@ -1,11 +1,23 @@
 User-agent: Mediapartners-Google
 Allow: /
+Disallow: /admin
+Disallow: /products
+Disallow: /tech
+Disallow: /values
 
 User-agent: Adsbot-Google
 Allow: /
+Disallow: /admin
+Disallow: /products
+Disallow: /tech
+Disallow: /values
 
 User-agent: Googlebot-Mobile
 Allow: /
+Disallow: /admin
+Disallow: /products
+Disallow: /tech
+Disallow: /values
 
 User-agent: AhrefsBot
 Disallow: /
