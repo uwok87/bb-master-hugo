@@ -20,3 +20,4 @@ User-agent: Bingbot
 Disallow: /
 
 Sitemap: https://postindo.netlify.app/sitemap.xml
+dev by uwok
